@@ -1,4 +1,5 @@
-import crypto from 'crypto';
+import crypto from "crypto";
+import WebSocket from "ws";
 
 export type StringBoolean = "true" | "false";
 

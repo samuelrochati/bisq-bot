@@ -7,3 +7,4 @@ export const LOSS_LIMIT = 0.03; // 单笔最大亏损USDT
 export const STOP_LOSS_DIST = 0.1; // 止损距离USDT
 export const TRAILING_PROFIT = 0.2; // 动态止盈激活利润USDT
 export const TRAILING_CALLBACK_RATE = 0.2; // 动态止盈回撤百分比
+export const TP_USDT = 2; // alvo de take-profit em USDT

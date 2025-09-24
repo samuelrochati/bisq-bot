@@ -17,7 +17,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.11.1",
   "dependencies": {
     "ccxt": "^4.4.88",
     "chalk": "^5.4.1",
@@ -25,10 +24,11 @@
     "commander": "^14.0.0",
     "dotenv": "^16.5.0",
     "ora": "^8.2.0",
-    "ws": "^8.18.2"
+    "ws": "^8.18.3"
   },
   "devDependencies": {
-    "@types/node": "^22.15.30",
+    "@types/node": "^24.5.2",
+    "@types/ws": "^8.18.1",
     "tsx": "^4.19.4",
     "vitest": "^3.2.2"
   }
